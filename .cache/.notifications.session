@@ -1,0 +1,9 @@
+[1]
+AppName=
+AppIcon=
+Summary=Updates Available
+Body=11 updates are available for your system
+Actions=default;;
+DesktopID=io.elementary.appcenter.desktop
+UnixTime=1604996949
+Sender=:1.62
